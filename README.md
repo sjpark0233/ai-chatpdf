@@ -31,5 +31,5 @@ https://streamlit.io/cloud
 
 ### create app 통해 배포
 ```
-https://ai-chatpdf-guavbxrcm8cbhssbchdef4.streamlit.app/
+https://ai-chatpdf-j9gwpmxrlf2mrh3nvfwtvc.streamlit.app/
 ```
